@@ -180,14 +180,3 @@ git push origin feature/your-feature
 
 6. Open a Pull Request.
 
-## 📄 License
-
-Add your preferred open-source license to this repository, such as **MIT**, if you want others to freely use and modify the project.
-
----
-
-### ⭐ Support the Project
-
-If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
-
-**Built to explore the intersection of Artificial Intelligence and Cybersecurity.** 🛡️🤖
