@@ -1,0 +1,30 @@
+{
+  "train_rows": 25192,
+  "test_rows": 22544,
+  "features_total": 45,
+  "numeric_features_count": 40,
+  "categorical_features": [
+    "protocol_type",
+    "service",
+    "flag"
+  ],
+  "missing_values_count": 0,
+  "train_class_distribution": {
+    "normal": 13449,
+    "dos": 9234,
+    "probe": 2289,
+    "r2l": 209,
+    "u2r": 11
+  },
+  "test_class_distribution": {
+    "normal": 9711,
+    "dos": 7458,
+    "r2l": 2887,
+    "probe": 2421,
+    "u2r": 67
+  },
+  "train_binary_distribution": {
+    "benign": 13449,
+    "attack": 11743
+  }
+}

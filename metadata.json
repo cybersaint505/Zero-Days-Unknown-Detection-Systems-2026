@@ -1,0 +1,6 @@
+{
+  "name": "Network Intrusion Detection System (NIDS)",
+  "description": "Production-style hybrid NIDS combining supervised XGBoost classification and unsupervised Autoencoder anomaly detection for zero-day defense with real-time streaming, drift detection, and analyst feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
